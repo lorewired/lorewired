@@ -8,7 +8,7 @@
       tools:
       - Go
           Gin, Echo Mux, Fiber, Gorm ORM
-      - Java *current learning
+      # Java *current learning
           Spring Boot, Spring Security, Hibernate, JPA
       - Typescript
           React, Express, Elysia, NestJS
