@@ -8,11 +8,11 @@
       tools:
       <br>
       - Go<br>
-          &nbsp;Gin, Echo Mux, Fiber, Gorm ORM<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Gin, Echo Mux, Fiber, Gorm ORM<br>
       - Java *current learning<br>
-          &nbsp;Spring Boot, Spring Security, Hibernate, JPA<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Spring Boot, Spring Security, Hibernate, JPA<br>
       - Typescript<br>
-          &nbsp;React, Express, Elysia, NestJS<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;React, Express, Elysia, NestJS<br>
       <br>
       projects: <a href="https://github.com/lorewired/qrcode-generator">qrcode-gen</a>, <a href="https://github.com/lorewired/url-shortener">url-shortener</a>, <a href="https://github.com/lorewired/ts-blog-web-update">web-blog</a>, <a href="https://github.com/lorewired/go-blog-api">blog-api</a>, <a href="https://github.com/lorewired/projeto-spring">java-rest-api</a>
       <br>
