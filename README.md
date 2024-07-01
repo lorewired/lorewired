@@ -14,7 +14,7 @@
       - Typescript<br>
           &nbsp;&nbsp;&nbsp;&nbsp;React, Express, Elysia, NestJS<br>
       projects:<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/lorewired/qrcode-generator">qrcode-gen</a>, <a href="https://github.com/lorewired/url-shortener">url-shortener</a>, <a href="https://github.com/lorewired/ts-blog-web-update">web-blog</a>, <a href="https://github.com/lorewired/go-blog-api">blog-api</a>, <a href="https://github.com/lorewired/projeto-spring">java-rest-api</a>
+      &nbsp;&nbsp;&nbsp;<a href="https://github.com/lorewired/qrcode-generator">qrcode-gen</a>, <a href="https://github.com/lorewired/url-shortener">url-shortener</a>, <a href="https://github.com/lorewired/ts-blog-web-update">web-blog</a>, <a href="https://github.com/lorewired/go-blog-api">blog-api</a>, <a href="https://github.com/lorewired/projeto-spring">java-rest-api</a>
       <br>
       <a href="https://lorewired.netlify.app/">website</a>
       <b>
