@@ -8,7 +8,7 @@
       tools:
       <br>
       - Go<br>
-          &nbsp;&nbsp;&nbsp;&nbsp;Gin, Echo Mux, Fiber, Gorm ORM<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;Gin, Echo, Mux, Fiber, Gorm ORM<br>
       - Java *current learning<br>
           &nbsp;&nbsp;&nbsp;&nbsp;Spring Boot, Spring Security, Hibernate, JPA<br>
       - Typescript<br>
