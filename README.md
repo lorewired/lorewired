@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://github.com/fr3fou/fr3fou/assets/1344906/2896e138-3d60-4ec9-a735-fe169704be69" width="350" align="left">
+ <img src="https://github.com/lorewired/lorewired/blob/main/ec0f19cbc3fed2bd6591fa3372116fb2.jpg" width="350" align="left">
   <p float="left">
     <samp>
       :3 
