@@ -1,5 +1,5 @@
 <p float="left">
- <img src="https://github.com/lorewired/lorewired/blob/main/frieren.png" width="466" align="left">
+ <img src="https://github.com/lorewired/lorewired/blob/main/frieren.png" width="466" height="750" align="left">
   <p float="left">
     <samp>
       :3 
