@@ -1,4 +1,4 @@
-<img src="https://github.com/lorewired/lorewired/blob/main/frieren.png" width="420" height="750" align="left">
+<img src="https://github.com/lorewired/lorewired/blob/main/frieren.png" width="440" height="750" align="left">
 
 :3 
 
